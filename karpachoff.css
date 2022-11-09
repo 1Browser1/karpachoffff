@@ -1,0 +1,156 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+:root{
+	--bg-color: #296DCE;
+	--mg-left: 150px;
+}
+/*header*/
+.kar{
+	margin-left: var(--mg-left);
+}
+
+
+
+.header{
+	
+	background-color: var(--bg-color);
+	position: relative;
+
+}
+.name{
+	padding-top: 100px;
+	margin-left: var(--mg-left);
+	color: white;
+
+}
+.name_1{
+	margin-left: var(--mg-left);
+	padding-top: 30px;
+	padding-bottom:50px ;
+	color: #FF8A00;
+}
+.name_2{
+	margin-left:  var(--mg-left);
+	color: white;
+	float: left;
+}
+.name_3{
+	margin-left:  var(--mg-left);
+	color: white;
+	
+}
+.name_4{
+	margin-left:  250px;
+	color: white;
+	float: left;
+}
+.name_5{
+	margin-left:  250px;
+	color: white;
+	
+}
+.tem{
+	float: left;
+	
+}
+.tem_{
+	margin-bottom: 20px;
+}
+.par{
+
+	display: inline-block;
+	background: #78AFE1;
+	color: white;
+	padding: 12px;
+	border-radius:  3px;
+	text-decoration: none;
+	font-family: Tahoma;
+	font-size:  1;
+	line-height: 1;
+	font-weight: 100;
+	margin-left: var(--mg-left);
+
+}
+.meter{
+	margin-top: 30px;
+	margin-left: var(--mg-left);
+	height: 1px;
+	width: 400px;
+	position: relative;
+	background: white;
+	-moz-border-radius: 25px;
+	-webkit-border-radius:  25px;
+	border-radius: 10px;
+	padding: 5px;
+	
+}
+.img{
+	margin-right: 300px;
+	margin-top: -420px;
+	float: right;
+}
+.tem{
+	float: left;
+}
+.tema{
+	margin-right: 680px;
+	float: right;
+}
+/*-*/
+
+/*main*/
+.main{
+	padding: 10px;
+	margin-top: 10px;
+	margin-left: var(--mg-left);
+	margin-right: 150px;
+	border: 1px solid;
+	border-color: #E0E3E5;
+	float: right;
+	border-radius: 5px;
+}
+
+.main_main{
+	float: right;
+}
+.orange{
+	color: #FE8907;
+}
+/*-*/
+
+/*footer*/
+.footer{
+	margin-top: 600px;
+	background: var(--bg-color);
+	width: 100%;
+	height: 240px;
+	color: white;
+
+}
+.footer_footer{
+	margin-left: var(--mg-left);
+	padding: 40px;
+	float: left;
+
+}
+.li{
+	list-style-type: none;
+	margin-top: 10px;
+}
+.f_t_1{
+	
+}
+.footer_footer_{
+	margin-left: var(--mg-left);
+
+	float: left;
+	padding: 30px;
+	margin-top: 1px;
+	}
+.footer_info{
+	margin-bottom: 20px;
+	margin-top: 5px;
+}
+/*-*/
